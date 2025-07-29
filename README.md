@@ -18,4 +18,25 @@
 
 바탕화면에 다운 받아놨던 docker-compose 파일로부터 잘 다운 받고 있는 듯?
 
+<img width="710" height="329" alt="스크린샷 2025-07-29 오후 12 18 22" src="https://github.com/user-attachments/assets/0e56ed6e-89a4-4248-88c5-d969b7b7ee07" />
+
+python 환경설정 해주기
+
+<img width="732" height="181" alt="스크린샷 2025-07-29 오후 12 19 54" src="https://github.com/user-attachments/assets/09a3f542-3887-473c-9563-46953839967e" />
+
+kafka 클러스터 시작 부분에서의 docker compose 실행
+
+<img width="731" height="245" alt="스크린샷 2025-07-29 오후 12 21 59" src="https://github.com/user-attachments/assets/3bb2b9d7-df77-4622-95fa-cd7acfe8619c" />
+
+user-singups 토픽을 3개의 파티션으로 생성
+
+<img width="652" height="340" alt="스크린샷 2025-07-29 오후 12 24 17" src="https://github.com/user-attachments/assets/6a057e50-1b55-44ae-9415-eee01377d78f" />
+
+수업 때 봤던대로 2초마다 새로운 사용자 가입 이벤트를 생성하여 Kafka 토픽으로 전송
+
+<img width="1453" height="674" alt="스크린샷 2025-07-29 오후 12 25 04" src="https://github.com/user-attachments/assets/2874179a-dcb0-428d-9526-a6de1de20df6" />
+
+잘 되는 것 같다
+
+
 
